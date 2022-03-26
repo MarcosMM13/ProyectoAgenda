@@ -12,7 +12,7 @@ namespace TrabajoFinal
         private Contacto[] _contactos;
         private int _index;
 
-        public int NumContactos
+        public int NumContacts
         {
             get
             {
